@@ -1,0 +1,17 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@layer base {
+  body {
+    #root {
+      @apply h-screen w-screen bg-secondary font-poppins text-primary p-8 text-xl;
+      .app-container {
+        @apply flex flex-col h-full justify-center items-center;
+        li {
+          list-style-type: disc;
+        }
+      }
+    }
+  }
+}
