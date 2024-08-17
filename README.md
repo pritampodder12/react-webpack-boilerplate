@@ -30,6 +30,7 @@ You can easily set up a new React application using this boilerplate by running 
 
 ```bash
 npx @ppodder/simple-react-app myApp
+```
 
 ## Upcoming Features
 
