@@ -1,14 +1,18 @@
 {
-  "name": "webpack-learning",
+  "name": "@ppodder/simple-react-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "A React starter project using Webpack, SCSS, Tailwind libraries.",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
     "dev": "webpack serve"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pritampodder12/react-webpack-boilerplate"
+  },
+  "keywords": ["react", "boilerplate", "create-simple-react-app"],
+  "author": "Pritam Podder",
   "license": "ISC",
   "bin": {
     "create-simple-react-app": "./bin/generate-app.js"
