@@ -1,5 +1,4 @@
-import React, { useState } from "react";
-import MyImg from "./assets/images/myImg.jpg";
+import React from "react";
 
 function App() {
   return (
