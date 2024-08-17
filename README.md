@@ -24,6 +24,13 @@ This project is a boilerplate setup for a React application, created using **Web
 
 This boilerplate serves as an example to demonstrate that **Next.js** might not be necessary for small web applications. The setup can be reused in future projects when building a web application from scratch.
 
+## Installation Guide
+
+You can easily set up a new React application using this boilerplate by running the following command:
+
+```bash
+npx @ppodder/simple-react-app myApp
+
 ## Upcoming Features
 
 1. **Setup Dev, UAT, Prod Environment**
